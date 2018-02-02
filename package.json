@@ -81,5 +81,8 @@
       "no-undef": 0,
       "no-unused-vars": 0
     }
+  },
+  "dependencies": {
+    "store": "^2.0.12"
   }
 }
